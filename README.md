@@ -30,7 +30,8 @@ The application uses Jest,  a JavaScript Testing Framework which runs unit tests
 Once the questions are done an SVG file is created : logo.svg .  To preview the logo, the user checks the logo in the browser.
 
 ## Links to project
-TODO!!
+tutorial video
+https://drive.google.com/file/d/1mGv9ISNwEJu-6RhQLb6xXL39TtRFEIbL/view
 
 ## License
 
